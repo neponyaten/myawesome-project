@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [GitHub Pages] ()
+- [GitHub Pages] (https://neponyaten.github.io/myawesome-project/src/index.html)
